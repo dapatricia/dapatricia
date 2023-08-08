@@ -12,7 +12,7 @@ Minha trajetória profissional também inclui passagens pela Aeris Energy, onde 
 
 - 🌱 Atualmente estou aprendendo diferentes linguas de programação.
 - 💬 Pergunte-me sobre: Automação e controle, gestão de projewtos, engenharia de produção, elétrica e computação.
-- 📫 Como me encontrar: [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/patriciadiasaraujo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pmo-po-scrum-patricia-dias-araujo/) [![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://web.dio.me/users/patríciaaraújo)
+- 📫 Como me encontrar: [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/patriciadiasaraujo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pmo-po-scrum-patricia-dias-araujo/) [![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://web.dio.me/users/patriciadiasaraujo_18)
 - 😄 Pronomes: [ela/dela]
 - ⚡ Fun fact: Passei no meu primeiro vestibulzar aos 14 anos;
                Sou viciada em novas capacitações e assinar plataformas de ensino 😄
