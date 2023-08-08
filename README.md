@@ -14,6 +14,8 @@ Minha trajetória profissional também inclui passagens pela Aeris Energy, onde 
 - 💬 Pergunte-me sobre: Automação e controle, gestão de projewtos, engenharia de produção, elétrica e computação.
 - 📫 Como me encontrar: [https://www.linkedin.com/in/pmo-po-scrum-patricia-dias-araujo/]
 - 😄 Pronomes: [ela/dela]
+- ⚡ Fun fact: Passei no meu primeiro vestibulzar aos 14 anos;
+               Sou viciada em novas capacitações e assinar plataformas de ensino 😄
 
 ## Habilidades
 
@@ -27,6 +29,8 @@ Minha trajetória profissional também inclui passagens pela Aeris Energy, onde 
 
 Sinta-se à vontade para contribuir com meus projetos, criar problemas ou entrar em contato comigo para qualquer discussão interessante!
 
-- ⚡ Fun fact: Passei no meu primeiro vestibulzar aos 14 anos;
-               Sou viciada em novas capacitações e assinar plataformas de ensino 😄
-
+## Parâmetros
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dapatricia&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dapatricia&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dapatricia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dapatricia&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dapatricia/SEUREPOSITORIO)
