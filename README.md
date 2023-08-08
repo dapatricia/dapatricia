@@ -18,12 +18,16 @@ Minha trajetória profissional também inclui passagens pela Aeris Energy, onde 
                Sou viciada em novas capacitações e assinar plataformas de ensino 😄
 
 ## Habilidades
-
 - Comunicação, negociação, análise de dados e visão estratégica, busco sempre aprimorar minha capacidade de liderança e a entrega de resultados excepcionais em todas as atividades que desempenho.
 - Linguagens de Programação: [C Python, JavaScript, Java].
 - Formação: Tenho formação acadêmica sólida, com Mestrado em Engenharia Elétrica e Computação pela Universidade Federal do Ceará, bem como formações complementares em gestão estratégica de projetos e metodologias ágeis.
 - Certificação: Sou certificada em Scrum, Jira, Confluence e possuo conhecimentos em linguagens de programação, como Python e C. 
 - Acredito na importância de aprendizado contínuo, o que me levou a concluir cursos de Metodologias Ágeis, Estratégias Competitivas e outros temas relevantes.
+![Communicative](https://img.shields.io/badge/Communicative-red)
+![Proactive](https://img.shields.io/badge/Proactive-blue)
+![Organized](https://img.shields.io/badge/Organized-red)
+![Empathetic](https://img.shields.io/badge/Empathetic-blue)
+
 
 ## Contribuições
 
