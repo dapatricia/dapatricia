@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Eu sou Patrícia Dias Araújo, um entusiasta da tecnologia apaixonado por gestão e liderançã, aprendizagem e desenvolvimento como programação, design, ciência de dados, etc. Adoro explorar novas tecnologias e aprender constantemente.
+Olá! Eu sou Patrícia Dias Araújo, um entusiasta da tecnologia apaixonado por gestão e liderança, aprendizagem e desenvolvimento como programação, design, ciência de dados, etc. Adoro explorar novas tecnologias e aprender constantemente.
 
 - 🔭 Atualmente estou trabalhando Na SiMCo - Healthcare, ocupo a posição de Supervisora de Corpo Clínico e Projetos desde janeiro de 2022. Nesse papel, lidero uma equipe dedicada à captação de profissionais de saúde, buscando o melhor mix de especialidades do mercado. Trabalho em  colaboração com as equipes de produtos e marketing para desenvolver projetos estratégicos que impulsionem o crescimento da empresa. Minha gestão é baseada em métricas-chave, como oferta de agendas, taxa de ocupação e mix de especialidades.
 
