@@ -2,11 +2,12 @@
 
 Olá! Eu sou Patrícia Dias Araújo, um entusiasta da tecnologia apaixonado por gestão e liderança, aprendizagem e desenvolvimento como programação, design, ciência de dados, etc. Adoro explorar novas tecnologias e aprender constantemente.
 
-- 🔭 Atualmente estou trabalhando Na SiMCo - Healthcare, ocupo a posição de Supervisora de Corpo Clínico e Projetos desde janeiro de 2022. Nesse papel, lidero uma equipe dedicada à captação de profissionais de saúde, buscando o melhor mix de especialidades do mercado. Trabalho em  colaboração com as equipes de produtos e marketing para desenvolver projetos estratégicos que impulsionem o crescimento da empresa. Minha gestão é baseada em métricas-chave, como oferta de agendas, taxa de ocupação e mix de especialidades.
+- 🔭 Olá! Sou Patrícia Dias Araújo, uma entusiasta da tecnologia movida pela gestão de projetos, inovação e transformação na área da saúde. Minha trajetória une engenharia, liderança e estratégia, com foco em transformar operações complexas em processos inteligentes, sustentáveis e centrados em pessoas.
 
-Além disso, atuo como Docente Universitária na Unichristus desde fevereiro de 2022, ministrando disciplinas de Engenharia, como Automação e Controle, Logística Industrial e PPCP II. Contribuir para o desenvolvimento dos futuros profissionais é uma realização pessoal e profissional.
+🚀 Atualmente, atuo como Gerente de Implantações e Projetos na Hapvida NotreDame Intermédica, liderando iniciativas estratégicas voltadas à integração de processos, eficiência operacional e inovação assistencial.
+Conduzo projetos que conectam tecnologia, times multidisciplinares e melhoria contínua, sempre orientada por dados e resultados tangíveis. Meu foco é garantir que cada implantação seja uma entrega de valor real — para o negócio, para os profissionais e para os pacientes.
 
-Meu interesse em aprimorar habilidades de gerenciamento de produto me levou a atuar como Product Owner Student na Escola DNC. Nessa posição, tenho me dedicado ao estudo de práticas avançadas de gerenciamento de produto, incluindo product discovery, UX/UI, product led growth e product backlog building. 
+🤝 Também atuo como Gerente de Projetos voluntária no PMI Ceará (PMI-CE), contribuindo para o fortalecimento da comunidade de gerenciamento de projetos e para o desenvolvimento de profissionais com mentalidade ágil, colaborativa e estratégica.
 
 Minha trajetória profissional também inclui passagens pela Aeris Energy, onde atuei como Analista de Projetos Pleno II, e Full Development Engineering Analyst, trabalhando no gerenciamento de projetos de instalação de moldes e dispositivos para o setor eólico.Na Diageo, como Operational Leader, tive a oportunidade de ser embaixadora do projeto SpeakUp, contribuindo para a igualdade e a diversidade. Meu trabalho também envolveu liderar equipes produtivas, monitorar indicadores-chave e implementar projetos de melhoria contínua.
 
